@@ -36,8 +36,8 @@ deg2rad = math.pi / 180
 altitude = 0
 inc_step_x = 2
 inc_step_y = 2
-delay_x = 0.05
-delay_y = 0.05
+delay_x = 0
+delay_y = 0
 
 xlist = []
 ylist = []
